@@ -1,0 +1,500 @@
+{
+  "demo": false,
+  "preview": {
+    "notice": "Concept preview — prepared by SolvynxAI. This preview is for demonstration purposes and is not the official website of Southern Star Roofing.",
+    "formNotice": "This is a concept preview. Forms are not connected or submitted."
+  },
+  "testOnly": false,
+  "meta": {
+    "title": "Southern Star Roofing | Roofing in Charlotte, NC",
+    "description": "Southern Star Roofing: roof replacement, roof repair and metal roofing for homes and businesses in Charlotte and Asheville. Free estimates.",
+    "robots": "noindex,nofollow,noarchive"
+  },
+  "brand": {
+    "accent": "#d2432c",
+    "accentDeep": "#b5361f",
+    "section": "#cf422c"
+  },
+  "business": {
+    "name": "Southern Star Roofing",
+    "shortName": "Southern Star Roofing",
+    "wordmark": "Southern Star Roofing",
+    "phone": "(704) 937-7663",
+    "phoneE164": "+17049377663",
+    "email": null,
+    "address": null,
+    "hours": "Mon to Fri · 8:00 to 5:00",
+    "legal": "Concept preview",
+    "social": []
+  },
+  "nav": {
+    "services": "Services",
+    "work": "Reviews",
+    "areas": "Areas",
+    "crew": "Team",
+    "process": "Process",
+    "faq": "FAQ",
+    "cta": "Free estimate"
+  },
+  "drawer": {
+    "title": "What we do",
+    "link": "All services →",
+    "areasTitle": "Areas we serve",
+    "cards": [
+      {
+        "img": "service-roof-replacement",
+        "badge": "Replacement",
+        "title": "Roof replacement",
+        "meta": "Homes"
+      },
+      {
+        "img": "service-roof-repair",
+        "badge": "Repair",
+        "title": "Roof repair",
+        "meta": "Same or next day"
+      },
+      {
+        "img": "service-windows",
+        "badge": "Metal",
+        "title": "Metal roofing",
+        "meta": "Standing seam and more"
+      },
+      {
+        "img": "service-siding",
+        "badge": "Commercial",
+        "title": "Commercial roofing",
+        "meta": "Business roofs"
+      }
+    ],
+    "promo": {
+      "kicker": "Free estimate",
+      "title": "Get a free roof inspection",
+      "line": "Your roof is inspected and photographed, then you get a detailed proposal.",
+      "button": "Book it"
+    }
+  },
+  "hero": {
+    "eyebrow": "Roofing · Charlotte, Asheville & the Carolinas",
+    "title": "Owner-led roofing<br /><mark class=\"hl\">since 2010.</mark>",
+    "lead": "Roof replacement, repair, metal roofing and gutters across Charlotte, Asheville and the Carolinas, with same-day or next-day inspections.",
+    "cta": "Book a free estimate",
+    "cta2": "See services",
+    "meta": "Google 4.9/5 · 350+ reviews · Est. 2010",
+    "chips": [
+      [
+        "all",
+        "All"
+      ],
+      [
+        "roof",
+        "Roofing"
+      ],
+      [
+        "storm",
+        "Storm & claims"
+      ],
+      [
+        "other",
+        "More"
+      ]
+    ],
+    "countLabel": "services",
+    "scrollHint": "Scroll to fly in",
+    "cursorLabel": "View service",
+    "featuredLabel": "Featured service",
+    "diveCta": "All services"
+  },
+  "jobs": [
+    {
+      "k": "roof",
+      "label": "Replacement",
+      "em": "Free est.",
+      "type": null,
+      "town": "Charlotte, NC",
+      "title": "Roof replacement",
+      "img": "service-roof-replacement",
+      "line": "Roof replacement for homes across Charlotte, Asheville and the Carolinas.",
+      "fact": "Free estimate",
+      "meta": null,
+      "at": [
+        1240,
+        900
+      ]
+    },
+    {
+      "k": "roof",
+      "label": "Repair",
+      "em": null,
+      "type": null,
+      "town": "Charlotte, NC",
+      "title": "Roof repair",
+      "img": "service-roof-repair",
+      "line": "Roof repair, with same-day or next-day inspections.",
+      "fact": "Free estimate",
+      "meta": null,
+      "at": [
+        760,
+        520
+      ]
+    },
+    {
+      "k": "roof",
+      "label": "Metal",
+      "em": null,
+      "type": null,
+      "town": "Charlotte, NC",
+      "title": "Metal roofing",
+      "img": "service-windows",
+      "line": "Standing seam, exposed fastener and metal shingle systems.",
+      "fact": "Free estimate",
+      "meta": null,
+      "at": [
+        1820,
+        1300
+      ]
+    },
+    {
+      "k": "roof",
+      "label": "Commercial",
+      "em": null,
+      "type": null,
+      "town": "Charlotte, NC",
+      "title": "Commercial roofing",
+      "img": "service-siding",
+      "line": "Commercial roofing.",
+      "fact": "Free estimate",
+      "meta": null,
+      "at": [
+        560,
+        1290
+      ]
+    },
+    {
+      "k": "other",
+      "label": "Gutters",
+      "em": null,
+      "type": null,
+      "town": "Charlotte, NC",
+      "title": "Gutters",
+      "img": "service-windows",
+      "line": "Gutter installation and repair.",
+      "fact": "Free estimate",
+      "meta": null,
+      "at": [
+        1480,
+        430
+      ]
+    }
+  ],
+  "stats": {
+    "eyebrow": "01 · Southern Star Roofing",
+    "title": "Google 4.9,<br /><mark>350+ reviews.</mark>",
+    "body": "Family owned, CertainTeed ShingleMaster certified, BBB A+ accredited, with up to 100% financing on a new roof.",
+    "cta": "Get a free estimate",
+    "signs": [
+      {
+        "value": "2010",
+        "label": "established"
+      },
+      {
+        "value": "4.9",
+        "label": "Google rating"
+      },
+      {
+        "value": "350+",
+        "label": "Google reviews"
+      },
+      {
+        "count": 5,
+        "label": "roofing services"
+      }
+    ],
+    "tickerLabel": "Why Southern Star Roofing",
+    "tickerBadge": null,
+    "ticker": [
+      [
+        "Family owned since 2010",
+        ""
+      ],
+      [
+        "Owner-led",
+        ""
+      ],
+      [
+        "CertainTeed ShingleMaster certified",
+        ""
+      ],
+      [
+        "BBB A+ accredited",
+        ""
+      ],
+      [
+        "Licensed general contractor in NC and SC",
+        ""
+      ],
+      [
+        "Up to 100% financing on a new roof",
+        ""
+      ]
+    ]
+  },
+  "services": {
+    "eyebrow": "02 · Services",
+    "title": "Shingle, metal<br /><mark>or commercial.</mark>",
+    "cta": "Free estimate",
+    "countLabel": "services",
+    "linkLabel": "Book a free estimate",
+    "tabs": [
+      [
+        "all",
+        "All"
+      ],
+      [
+        "roof",
+        "Roofing"
+      ],
+      [
+        "storm",
+        "Storm & claims"
+      ],
+      [
+        "other",
+        "More"
+      ]
+    ],
+    "items": [
+      {
+        "f": "roof",
+        "big": true,
+        "tag": "Replacement",
+        "img": "service-roof-replacement",
+        "title": "Roof replacement",
+        "sub": "Homes",
+        "line": "Roof replacement for homes across Charlotte, Asheville and the Carolinas.",
+        "specs": "Replacement",
+        "pin": [
+          "Charlotte",
+          "free estimate"
+        ]
+      },
+      {
+        "f": "roof",
+        "big": false,
+        "tag": "Repair",
+        "img": "service-roof-repair",
+        "title": "Roof repair",
+        "sub": "Same or next day",
+        "line": null,
+        "specs": "Repair",
+        "pin": [
+          "Charlotte",
+          "free estimate"
+        ]
+      },
+      {
+        "f": "roof",
+        "big": false,
+        "tag": "Metal",
+        "img": "service-windows",
+        "title": "Metal roofing",
+        "sub": "Standing seam and more",
+        "line": null,
+        "specs": "Standing seam · metal shingle",
+        "pin": [
+          "Charlotte",
+          "free estimate"
+        ]
+      },
+      {
+        "f": "roof",
+        "big": false,
+        "tag": "Commercial",
+        "img": "service-siding",
+        "title": "Commercial roofing",
+        "sub": "Business roofs",
+        "line": null,
+        "specs": "Commercial",
+        "pin": [
+          "Charlotte",
+          "free estimate"
+        ]
+      },
+      {
+        "f": "other",
+        "big": false,
+        "tag": "Gutters",
+        "img": "service-windows",
+        "title": "Gutters",
+        "sub": "Install and repair",
+        "line": null,
+        "specs": "Gutters",
+        "pin": [
+          "Charlotte",
+          "free estimate"
+        ]
+      }
+    ]
+  },
+  "areas": {
+    "eyebrow": "03 · Areas we serve",
+    "title": "Across the<br /><mark>Carolinas.</mark>",
+    "body": "Headquartered in Charlotte with an office in Asheville.",
+    "cardLink": "Book a free estimate →",
+    "center": [
+      30,
+      46
+    ],
+    "items": [
+      {
+        "n": "Charlotte",
+        "c": "NC",
+        "x": 30,
+        "y": 46,
+        "img": "service-roof-replacement",
+        "badge": "Service area",
+        "stats": null,
+        "note": "Free inspection and estimate in Charlotte."
+      },
+      {
+        "n": "Asheville",
+        "c": "NC",
+        "x": 14,
+        "y": 26,
+        "img": "service-roof-repair",
+        "badge": "Service area",
+        "stats": null,
+        "note": "Free inspection and estimate in Asheville."
+      }
+    ]
+  },
+  "estimate": {
+    "eyebrow": "04 · Free estimate",
+    "title": "Tell us about<br /><mark class=\"dark\">your roof.</mark>",
+    "body": "Share a few details and we will follow up about your roof.",
+    "cardTitle": "Quick request",
+    "addressPlaceholder": "Street address",
+    "resultLabel": "Your roof",
+    "basis": "Free inspection in {town}",
+    "pricing": null,
+    "noPriceNote": "Material, roof height and pitch all affect the price. You get an exact price after an inspection, with no guesswork.",
+    "cta": "Book my free estimate",
+    "foot": "Free estimates · Financing available"
+  },
+  "process": {
+    "eyebrow": "How it works · 4 steps",
+    "title": "4 steps,<br /><mark>start to finish.</mark>",
+    "counterLabel": "Step",
+    "steps": [
+      {
+        "t": "Get in touch",
+        "x": "Call (704) 937-7663 or send the form below with a few details about your roof.",
+        "img": "ba-storm-before",
+        "vf": "Get in touch",
+        "pin": null,
+        "live": "Get in touch",
+        "chip": "Get in touch",
+        "flap": "GET IN TOU"
+      },
+      {
+        "t": "Inspection",
+        "x": "The roof is looked over on site so the work can be scoped properly.",
+        "img": "ba-worn-before",
+        "vf": "Inspection",
+        "pin": null,
+        "live": "Inspection",
+        "chip": "Inspection",
+        "flap": "INSPECTION"
+      },
+      {
+        "t": "Proposal",
+        "x": "You receive the scope of work and the price before anything starts.",
+        "img": "service-roof-repair",
+        "vf": "Proposal",
+        "pin": null,
+        "live": "Proposal",
+        "chip": "Proposal",
+        "flap": "PROPOSAL"
+      },
+      {
+        "t": "The work",
+        "x": "Work is scheduled at a time that suits you.",
+        "img": "service-roof-replacement",
+        "vf": "The work",
+        "pin": null,
+        "live": "The work",
+        "chip": "The work",
+        "flap": "THE WORK"
+      }
+    ]
+  },
+  "crew": {
+    "show": false,
+    "items": []
+  },
+  "stories": {
+    "show": false,
+    "eyebrow": "05 · Reviews",
+    "title": "What customers<br /><mark>say.</mark>",
+    "plateTitle": "4.9",
+    "photoNote": "Illustrative photo",
+    "items": []
+  },
+  "season": {
+    "show": false,
+    "towns": {},
+    "posts": []
+  },
+  "faq": {
+    "eyebrow": "05 · Questions",
+    "title": "Questions,<br /><mark>answered.</mark>",
+    "contactLead": "Didn’t see your question? Call",
+    "contactJoin": "or email",
+    "contactTail": "Open Mon to Fri, 8:00 to 5:00.",
+    "cta": "Call us",
+    "tabs": [
+      [
+        "all",
+        "All"
+      ]
+    ],
+    "items": [
+      {
+        "g": "all",
+        "q": "What services do you offer?",
+        "a": "Roof replacement, roof repair, metal roofing, commercial roofing and gutters."
+      },
+      {
+        "g": "all",
+        "q": "Which areas do you serve?",
+        "a": "Charlotte and Asheville, NC."
+      },
+      {
+        "g": "all",
+        "q": "How do I get a free estimate?",
+        "a": "Use the form on this page, or call (704) 937-7663."
+      }
+    ]
+  },
+  "book": {
+    "eyebrow": "Free estimate",
+    "title": "Book your free<br /><mark>inspection.</mark>",
+    "body": "Choose a service and a time that suits you, and the team will be in touch to confirm.",
+    "cardTitle": "Book a free estimate",
+    "cardNote": "About 60 seconds",
+    "times": [
+      "9:00 am",
+      "11:00 am",
+      "1:00 pm",
+      "3:00 pm"
+    ],
+    "submit": "Request visit",
+    "thanks": "Thanks, <b>{name}</b>. This is a concept preview. Forms are not connected or submitted. To book, call (704) 937-7663.",
+    "under": "Google 4.9/5 · 350+ reviews · Est. 2010",
+    "callPrefix": "Or call"
+  },
+  "footer": {
+    "officeLabel": "Contact",
+    "companyTitle": "Company",
+    "newsletter": null
+  }
+}
